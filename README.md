@@ -33,4 +33,3 @@ The frontend is built using Next.js(React.js) and Tailwind CSS. I have utilised 
 2. Run ```npm install``` to install all the dependencies
 3. Run ```npm start``` to start the server
 
-![alt text](image.png)
